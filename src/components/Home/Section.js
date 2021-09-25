@@ -11,8 +11,6 @@ const Section = (props) => {
         filter: 'blur(' + blur + ')',
     }
 
-
-    console.log(style)
     return (
         <div className='wrap' style={style} >
             <Hero
