@@ -1,6 +1,8 @@
-# Tesla Clone
+<p align="center">
+<img width="20%" src="https://user-images.githubusercontent.com/69134468/135425519-5151e235-3d9e-4a0b-8588-b43e376590dd.png">
+</p>   
 
-Tesla Clone made with Reactjs. 
+Tesla Clone made with ***ReactJS***. 
 
 ## Getting Started 🚀
 
